@@ -278,6 +278,9 @@ color: #3B3B3B;
 		width: 230px;
 		height: 229px;
 	}
+	.search{
+		width: 259px;
+	}
 }
 
 @media screen and (max-width: 900px){
