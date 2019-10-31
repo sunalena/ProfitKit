@@ -96,7 +96,7 @@ select::-ms-expand {
 		font-size: 13px;
 		font-family: PT Sans Caption;
 		padding: 4px 0;
-		width: 26px;
+		min-width: 26px;
 		height: 18px;
 		transform: translateY(-50%);
 }
@@ -244,14 +244,14 @@ color: #3B3B3B;
 	padding:12px 25px;
 	outline:none;
 }
-.search input{
-	font-family: PT Sans Caption;
-	font-size: 13px;
-}
-.search{
+.search {
 	position: relative;
 	width: 430px;
 	display: inline-block;
+}
+.search input{
+	font-family: PT Sans Caption;
+	font-size: 13px;
 }
 .search img{
 	position:absolute;
@@ -271,6 +271,9 @@ color: #3B3B3B;
 	}
 	.phone{
 		margin-left: 15px;
+	}
+	.additional span{
+		font-size: 13px;
 	}
 }
 
