@@ -65,6 +65,9 @@ select::-ms-expand {
 .cabinet{
 	display: flex;
 }
+.cabinet img{
+	padding-right: 15px;
+}
 .cabinet a{
 	background-image: linear-gradient(to right, #337fd2 10%, rgba(51,127,210,0) 0%);
 	background-position: bottom;
