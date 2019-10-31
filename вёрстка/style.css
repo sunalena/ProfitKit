@@ -244,6 +244,10 @@ color: #3B3B3B;
 	padding:12px 25px;
 	outline:none;
 }
+.search input{
+	font-family: PT Sans Caption;
+	font-size: 13px;
+}
 .search{
 	position: relative;
 	width: 430px;
