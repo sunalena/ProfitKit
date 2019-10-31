@@ -261,6 +261,9 @@ color: #3B3B3B;
 	.product{
 		width: 180px;
 	}
+	.phone{
+		margin-left: 15px;
+	}
 }
 
 @media screen and (max-width: 1024px){
