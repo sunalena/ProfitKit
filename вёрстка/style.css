@@ -106,6 +106,7 @@ select::-ms-expand {
 	font-size: 13px;
 	line-height: 17px;
 	color: #3B3B3B;
+	padding-left: 5px;
 }
 .number{
 	position: absolute;
