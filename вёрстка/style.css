@@ -72,6 +72,9 @@ select::-ms-expand {
 	background-repeat: repeat-x;
 	text-decoration: none;
 	color: #337fd2;
+	font-family: PT Sans Caption;
+	font-weight: bold;
+	font-size: 13px;
 }
 .logo{
 	font-family: Secular One;
